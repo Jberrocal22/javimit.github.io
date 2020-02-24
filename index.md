@@ -18,7 +18,7 @@
     <li>Hay un sin número de funciones que ayudan a llevar un mensaje y todo en nube (Amazon/Guthub).</li>
     <li>Personalmente, el codigo abierto esta haciendo mejor al mundo.</li>
   </ol>
-  <h2>Contacto</h2>
+  <h2>Comentarios</h2>
 
 <form action="/action_page.php">
   <label for="fname">Nombre:</label><br>
@@ -31,11 +31,11 @@
   <input type="text" id="comm" name="comm"><br>
   <input type="submit">
 </form> 
-<h1>Webmaster</h1>
+<h2>Webmaster</h2>
 
 <footer>
   <p>Posted by: Jberrocal</p>
-  <p>Contact information: <a href="mailto:berrocal.javier88@gmail.com">berrocal.javier88@gmail.com</a>.</p>
+  <p>Email: <a href="mailto:berrocal.javier88@gmail.com">berrocal.javier88@gmail.com</a>.</p>
 </footer>
 
 <!--<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>-->
