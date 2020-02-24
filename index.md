@@ -8,7 +8,7 @@
   <p><b>Bienvenidos,</b></p> 
   <p>Este primer diseño <b>contempla aspectos básicos</b>.</p> 
   <p>Aquí trataré de mostrar las generales de una home_page.</p>
-  <h1>Hiperlinks</h1>
+  <h2>Hiperlinks</h2>
   <a href="https://www.google.com">Hipervínculo</a>
   <h2>Botones de Acción</h2>
   <p>HTML buttons are defined with the button tag:</p>
