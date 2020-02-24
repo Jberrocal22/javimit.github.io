@@ -30,7 +30,8 @@
   <label for="fname">Comentarios:</label><br>
   <input type="text" id="comm" name="comm"><br>
   <input type="submit">
-</form> 
+</form>
+<p> </p>
 <h2>Rate me!</h2>
 <table>
   <tr>
