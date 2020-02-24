@@ -34,7 +34,7 @@
 <h2>Rate me!</h2>
 <table>
   <tr>
-    <th>Bad <dialog open>This is an open dialog window</dialog></th>
+    <th>Bad</th>
     <th>Normal</th>
     <th>Good</th>
   </tr>
