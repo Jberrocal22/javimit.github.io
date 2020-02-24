@@ -36,5 +36,19 @@
 </footer>
 
 <!--<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>-->
+<h2>Rate me!</h2>
+<table>
+  <tr>
+    <th>Bad <dialog open>This is an open dialog window</dialog></th>
+    <th>Normal</th>
+    <th>Good</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+</table>
+
 </body>
 </html>
