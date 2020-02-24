@@ -31,11 +31,6 @@
   <input type="text" id="comm" name="comm"><br>
   <input type="submit">
 </form> 
-<footer>
-  <p>Posted by: Jberrocal - Email: <a href="mailto:berrocal.javier88@gmail.com">berrocal.javier88@gmail.com</a>.</p>
-</footer>
-
-<!--<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>-->
 <h2>Rate me!</h2>
 <table>
   <tr>
@@ -49,6 +44,11 @@
     <td>3</td>
   </tr>
 </table>
+<footer>
+  <p>Posted by: Jberrocal - Email: <a href="mailto:berrocal.javier88@gmail.com">berrocal.javier88@gmail.com</a>.</p>
+</footer>
+
+<!--<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>-->
 
 </body>
 </html>
