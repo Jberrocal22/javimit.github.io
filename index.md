@@ -29,7 +29,7 @@
   <input type="text" id="ename" name="ename"><br>
   <label for="fname">Comentarios:</label><br>
   <input type="text" id="comm" name="comm"><br>
-  <input type="submit" value="Submit">
+  <input type="submit">
 </form> 
 
 <!--<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>-->
