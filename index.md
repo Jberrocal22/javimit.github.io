@@ -9,7 +9,7 @@
   <p>Este primer diseño <b>contempla aspectos básicos</b>.</p> 
   <p>Aquí trataré de mostrar las generales de una <dfn>home_page</dfn>.</p>
   <h2>Hiperlinks</h2>
-  <a href="https://www.w3schools.com/">Hipervínculo</a>
+  <a href="https://www.w3schools.com">Clases_HTML</a>
   <p>Con este link podemos aprender sintaxis básica de HTML</p>
   <h2>Notas</h2>
   <ol>
