@@ -12,9 +12,11 @@
   <a href="https://www.google.com">Hipervínculo</a>
   <p>Con este link podemos aprender sintaxis básica de HTML:</p>
   <h2>Botones de Acción</h2>
-  <p>HTML buttons are defined with the button tag:</p>
-  <button>Click me</button>
-  <p>Test con imágenes:</p>
-  <img src="‪C:/Users/equipo1/Pictures/flag.jpg" alt="TBD" width="104" height="142">
+  <h2>An Unordered HTML List</h2>
+  <ol>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ol>  
 </body>
 </html>
