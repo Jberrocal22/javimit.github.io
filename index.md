@@ -9,6 +9,7 @@
   <p>Este primer diseño <b>contempla aspectos básicos</b>.</p> 
   <p>Aquí trataré de mostrar las generales de una home_page.</p>
   <h2>Hiperlinks</h2>
+  <p>Con este link podemos aprender sintaxis básica de HTML:</p>
   <a href="https://www.google.com">Hipervínculo</a>
   <h2>Botones de Acción</h2>
   <p>HTML buttons are defined with the button tag:</p>
