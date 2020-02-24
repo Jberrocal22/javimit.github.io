@@ -9,15 +9,16 @@
   <p>Este primer diseño <b>contempla aspectos básicos</b>.</p> 
   <p>Aquí trataré de mostrar las generales de una <dfn>home_page</dfn>.</p>
   <h2>Hiperlinks</h2>
-  <a href="https://www.google.com">Hipervínculo</a>
-  <p>Con este link podemos aprender sintaxis básica de HTML:</p>
-  <h2>An Unordered HTML List</h2>
+  <a href="https://www.w3schools.com/">Hipervínculo</a>
+  <p>Con este link podemos aprender sintaxis básica de HTML</p>
+  <h2>Notas</h2>
   <ol>
-    <li>Coffee</li>
-    <li>Tea</li>
-    <li>Milk</li>
+    <li>Cloud para Github y Amazon nos da flexibilidad en hacer estos diseños.</li>
+    <li>No soy experto en HTML pero esto lo he podido realizar en menos de 1 hora.</li>
+    <li>Hay un sin número de funciones que ayudan a llevar un mensaje y todo en nube (Amazon/Guthub).</li>
+    <li>Personalmente, el codigo abierto esta haciendo mejor al mundo.</li>
   </ol>
-  <h2>HTML Forms</h2>
+  <h2>Contacto</h2>
 
 <form action="/action_page.php">
   <label for="fname">Nombre:</label><br>
@@ -31,6 +32,6 @@
   <input type="submit" value="Submit">
 </form> 
 
-<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+<!--<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>-->
 </body>
 </html>
