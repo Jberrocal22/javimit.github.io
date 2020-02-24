@@ -31,6 +31,12 @@
   <input type="text" id="comm" name="comm"><br>
   <input type="submit">
 </form> 
+<h1>Webmaster</h1>
+
+<footer>
+  <p>Posted by: Jberrocal</p>
+  <p>Contact information: <a href="mailto:berrocal.javier88@gmail.com">berrocal.javier88@gmail.com</a>.</p>
+</footer>
 
 <!--<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>-->
 </body>
